@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknear_wiki=self.webpackChunknear_wiki||[]).push([[1477],{10:function(e){e.exports={blogPosts:[]}}}]);
