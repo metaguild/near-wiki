@@ -7,14 +7,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'NEAR Wiki',
-  tagline: 'Help is NEAR',
-  url: 'https://wiki.near.org',
-  baseUrl: '/',
+  tagline: 'Discover, Build, and Grow!',
+  url: 'https://metaguild.github.io',
+  baseUrl: '/near-wiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'near', // Usually your GitHub org/user name.
-  projectName: 'wiki', // Usually your repo name.
+  organizationName: 'metaguild', // Usually your GitHub org/user name.
+  projectName: 'near-wiki', // Usually your repo name.
 
   presets: [
     [
